@@ -4,5 +4,5 @@ Bluetooth is controlled with the app "Dabble", which has it's own library and ca
 Library info  is found here: https://ai.thestempedia.com/docs/dabble-app/getting-started-with-dabble/
 Bluetooth_Car.fzz may be opened with the Frizting app which will show the diagram and connections of the car. 
 Diagram is also found here: 
-<img width="1018" height="761" alt="Image" src="https://github.com/user-attachments/assets/361c6a9f-6ff8-40be-8895-b83d56ef242d" />
+<img width="1521" height="877" alt="Image" src="https://github.com/user-attachments/assets/911aac3f-0e36-44e0-9b7c-1dce632c50da" />
 
