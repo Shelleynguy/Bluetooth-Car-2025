@@ -35,5 +35,5 @@ Download from [arduino.cc](https://www.arduino.cc/en/software).
 - Dabble app documentation: [Dabble Getting Started](https://ai.thestempedia.com/docs/dabble-app/getting-started-with-dabble/)
 
 
-<img width="1521" height="877" alt="Image" src="https://github.com/user-attachments/assets/911aac3f-0e36-44e0-9b7c-1dce632c50da" />
+
 
